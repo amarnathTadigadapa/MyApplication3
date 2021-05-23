@@ -1,9 +1,6 @@
-package com.example.myapplication;
+package com.example.futureaqueous;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.ProgressBar;
-import android.widget.Switch;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
