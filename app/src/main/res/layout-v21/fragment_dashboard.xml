@@ -73,8 +73,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="301dp"
-        android:layout_height="64dp"
+        android:layout_width="303dp"
+        android:layout_height="94dp"
         android:background="@drawable/button_border"
         android:gravity="center"
         android:text="Saving Suggestions"
